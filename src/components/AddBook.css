@@ -1,0 +1,26 @@
+.head {
+    background: rgb(77, 75, 75);
+    color: white;
+}
+
+.heading {
+    margin: 10px;
+}
+
+.add{
+    margin: 10px;
+}
+.box {
+    border: 2px solid grey;
+    width: 350px;
+    margin-left: 480px;
+    border-radius: 16px;
+    padding: 10px;
+   margin-top:50px;
+}
+.box > .form {
+    margin: 10px;
+}
+.add{
+    margin: 10px;
+}
